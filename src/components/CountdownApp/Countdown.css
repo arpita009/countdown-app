@@ -1,0 +1,39 @@
+.start-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    border: 2px solid #007bff;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.start-btn:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.time-block {
+    padding: 20px;
+    margin: 4rem 12rem;
+    background-color: darkblue;
+    color: white;
+    border-radius: 40px;
+}
+
+.rem-time {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.num {
+    font-size: 45px;
+    color: floralwhite;
+    margin-bottom: 4px;
+}
